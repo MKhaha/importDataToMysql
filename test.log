@@ -1,0 +1,10 @@
+Fri, 21 Oct 2016 16:45:52 creatDataBaseInMysql.py[line:102] DEBUG [insert table 2016_06] total: 53
+Fri, 21 Oct 2016 16:45:52 creatDataBaseInMysql.py[line:102] DEBUG [insert table 2016_05] total: 617
+Fri, 21 Oct 2016 16:45:52 creatDataBaseInMysql.py[line:102] DEBUG [insert table 2016_04] total: 563
+Fri, 21 Oct 2016 16:45:52 creatDataBaseInMysql.py[line:102] DEBUG [insert table 2016_03] total: 483
+Fri, 21 Oct 2016 16:45:52 creatDataBaseInMysql.py[line:102] DEBUG [insert table 3月定制款汇总] total: 383
+Fri, 21 Oct 2016 16:45:52 creatDataBaseInMysql.py[line:102] DEBUG [insert table 2016_02] total: 227
+Fri, 21 Oct 2016 16:45:52 creatDataBaseInMysql.py[line:102] DEBUG [insert table 2月定制款汇总] total: 160
+Fri, 21 Oct 2016 16:45:53 creatDataBaseInMysql.py[line:102] DEBUG [insert table 2016_01] total: 1959
+Fri, 21 Oct 2016 16:45:53 creatDataBaseInMysql.py[line:102] DEBUG [insert table 2015年定制] total: 62
+Fri, 21 Oct 2016 16:45:53 creatDataBaseInMysql.py[line:102] DEBUG [insert table Sheet2] total: 206
